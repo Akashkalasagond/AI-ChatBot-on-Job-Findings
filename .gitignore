@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Local configuration files
+*.env
+
+# Log files
+*.log
+
+# Python distribution files
+*.egg
+*.egg-info
+dist/
+build/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Other files to ignore
+*.DS_Store
+Thumbs.db
